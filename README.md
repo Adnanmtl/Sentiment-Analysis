@@ -1,4 +1,4 @@
-﻿# Sentiment Analysis with Machine Learning & RoBERTa
+﻿# Sentiment Analysis
 
 A comprehensive natural language processing (NLP) project for sentiment classification of customer reviews. It compares traditional machine learning classifiers against state-of-the-art transformer architectures and lexicon-based models.
 
