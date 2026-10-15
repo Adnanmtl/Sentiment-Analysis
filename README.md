@@ -4,7 +4,7 @@ A comprehensive natural language processing (NLP) project for sentiment classifi
 
 ## Project Overview
 
-- **Dataset**: `AllReviews.xlsx` containing product reviews and sentiment labels.
+- **Dataset**: `AllReviews.xlsx` containing 2000 real amazon product reviews with 1000 being positive and 1000 being negative.
 - **Traditional ML Models**:
   - Multinomial Naive Bayes
   - Logistic Regression
